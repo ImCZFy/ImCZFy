@@ -25,11 +25,7 @@ Tools: JetBrains IDEs, Git, VS Code
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImCZFy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImCZFy&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ImCZFy&theme=radical&hide_border=true)
+[![ChengZhiFy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImCZFy)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
