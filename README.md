@@ -3,7 +3,7 @@
 # 👋 Hi, I'm ChengZhiFy
 
 ### 💻 Developer | 🌟 Open Source Beginner | 🚀 Lifelong Learner
-
+[![wakatime](https://wakatime.com/badge/user/b94dee65-6552-4ab7-87ac-50a3a13e0cda.svg)](https://wakatime.com/@b94dee65-6552-4ab7-87ac-50a3a13e0cda)
 </div>
 
 ---
@@ -13,8 +13,7 @@
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats-beta-six-21.vercel.app/api?username=ImCZFy&show_icons=true&theme=dark&card_width=700)
-
-
+![Top Langs](https://github-readme-stats-beta-six-21.vercel.app/api/top-langs/?username=ImCZFy&layout=compact&theme=dark&card_width=700)
 </div>
 
 ## 🧑‍💻 About Me
