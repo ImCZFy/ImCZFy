@@ -8,6 +8,15 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats-beta-six-21.vercel.app/api?username=ImCZFy&show_icons=true&theme=dark&card_width=700)
+
+
+</div>
+
 ## 🧑‍💻 About Me
 - Fond of Minecraft, learning to explore its extensive modding capabilities.
 - Based in China, with poor English skills but good at Chinese!
@@ -21,14 +30,6 @@ Languages: Java, C++, Kotlin
 Tools: JetBrains IDEs, Git, VS Code
 ```
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats-beta-six-21.vercel.app//api?username=ImCZFy&show_icons=true&theme=dark&card_width=700)
-
-
-</div>
 
 ## 🌐 Contact Me Anywhere
 
