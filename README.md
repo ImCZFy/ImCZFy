@@ -1,29 +1,24 @@
 <div align="center">
   
-# 👋 Hi, I'm ImCZFy
+# 👋 Hi, I'm ChengZhiFy
 
-### 💻 Developer | 🌟 Open Source Enthusiast | 🚀 Lifelong Learner
+### 💻 Developer | 🌟 Open Source Beginner | 🚀 Lifelong Learner
 
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
-
-- 🔭 Currently exploring new technologies and building interesting projects
-- 🌱 Constantly learning and improving my skills
-- 💡 Passionate about clean code and best practices
-- 🎯 Open to collaborating on innovative ideas
-- 📫 Feel free to reach out for collaborations or just a chat!
+- Fond of Minecraft, learning to explore its extensive modding capabilities.
+- Based in China, with poor English skills but good at Chinese!
+- Computer Science Student
 
 ## 🛠️ Tech Stack
 
-<!-- You can customize these badges at https://shields.io/ or https://skillicons.dev -->
 
 ```plaintext
-Languages: [Add your languages here - e.g., Python, JavaScript, Java, etc.]
-Frameworks: [Add your frameworks here - e.g., React, Vue, Django, etc.]
-Tools: [Add your tools here - e.g., Git, Docker, VS Code, etc.]
+Languages: Java, C++, Kotlin
+Tools: JetBrains IDEs, Git, VS Code
 ```
 
 ## 📊 GitHub Stats
@@ -38,23 +33,14 @@ Tools: [Add your tools here - e.g., Git, Docker, VS Code, etc.]
 
 </div>
 
-## 🌐 Connect With Me
-
-<!-- Replace # with your actual profile links -->
+## 🌐 Contact Me Anywhere
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImCZFy)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-<!-- Add more social links as needed -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lycsdly@outlook.com)
+[![Bilibili](https://img.shields.io/badge/Bilibili-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/280374343)'
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/503038754471280671)
 
-## 💭 Quote of the Day
 
-<div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
 
 <div align="center">
   
