@@ -25,7 +25,7 @@ Tools: JetBrains IDEs, Git, VS Code
 
 <div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ImCZFy&locale=cn&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImCZFy&locale=cn&theme=dark&hide_border=true)
 
 </div>
 
