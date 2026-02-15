@@ -34,7 +34,7 @@ Tools: JetBrains IDEs, Git, VS Code
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImCZFy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lycsdly@outlook.com)
-[![Bilibili](https://img.shields.io/badge/Bilibili-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/280374343)'
+[![Bilibili](https://img.shields.io/badge/Bilibili-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/280374343)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/503038754471280671)
 
 
